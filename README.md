@@ -1,30 +1,44 @@
 <div align="center">
 
-# 🐍 Olá, eu sou a Jordana!
+# 👩‍💻 Olá, eu sou a Jordana!
 
-### Estudante de Programação em Python
+### Estudante de Desenvolvimento Front-end e Back-end
 
-![Python](https://img.shields.io/badge/Python-Em%20aprendizado-3776AB?style=for-the-badge&logo=python&logoColor=white)
+🐍 **Python** · 🎨 **HTML & CSS** · 🌐 **Front-end** · ⚙️ **Back-end**
 
 </div>
 
 ---
 
-### 👩‍💻 Sobre mim
+### ✨ Sobre mim
 
-- 📚 Estou estudando **programação em Python**.
-- 🧠 Desenvolvendo conhecimentos em **lógica de programação** e **estruturas de dados**.
-- 💻 Compartilho exercícios e projetos para registrar minha evolução.
-- 🚀 Meu objetivo é continuar aprendendo e construir uma trajetória na tecnologia.
+- 📚 Estou aprendendo **programação em Python, HTML e CSS**.
+- 🎨 Estudo **Front-end**, criando interfaces e explorando estilos e layouts.
+- ⚙️ Tenho interesse em **Back-end**, lógica de programação e desenvolvimento de aplicações.
+- 🚀 Compartilho meus exercícios e projetos para acompanhar minha evolução.
 
-### 🛠️ Tecnologia em foco
+### 🛠️ Tecnologias em aprendizado
 
-![Python](https://skillicons.dev/icons?i=py)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+</div>
+
+### 💡 Áreas de interesse
+
+| 🎨 Front-end | ⚙️ Back-end |
+| --- | --- |
+| HTML, CSS e construção de interfaces | Python, lógica e estruturas de dados |
+| Estilização e organização visual | Fundamentos de aplicações e processamento de dados |
 
 ### 📂 Meus projetos
 
-- 🐍 [Estruturas em Python](https://github.com/jordanamtech/estruturas_python) — meus estudos e exercícios com estruturas em Python.
+- 🐍 [Estruturas em Python](https://github.com/jordanamtech/estruturas_python) — exercícios e estudos de Python.
 - 🌱 [Hello World](https://github.com/jordanamtech/2026.09.18.Hello_Word) — primeiros passos na programação.
+- 🎨 [First Front](https://github.com/jordanamtech/first_front) — projeto de estudos em Front-end.
 
 ### 📊 Minha atividade no GitHub
 
@@ -38,6 +52,6 @@
 
 <div align="center">
 
-✨ *Aprendendo um pouco mais a cada linha de código.*
+✨ *Aprendendo, praticando e evoluindo a cada projeto.*
 
 </div>
